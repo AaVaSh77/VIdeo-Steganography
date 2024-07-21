@@ -46,3 +46,8 @@ Preprocessing techniques used for the video part are:
 - **Normalization**: Transforming pixel values to a common scale, typically between 0 and 1, to facilitate model training.
 - **Denormalization**: Converting normalized pixel values back to their original scale for interpretation or visualization purposes.
 
+## Contributors
+- Aavash Adhikari
+- Abashesh Ranabhat
+- Krisham Rai
+- Sumnima Giri
